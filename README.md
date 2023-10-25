@@ -14,6 +14,10 @@
 </div>
  
 <br>
+
+## Visitors
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRonyelleOliveira%2FRonyelleOliveira&countColor=%23263759&style=flat)
  
 ### me segue nas redes abaixo!
  
