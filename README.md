@@ -23,6 +23,6 @@
   <a href="https://www.linkedin.com/in/ronyelle-oliveira-108883286" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## Contribution graph
+## Contribution graph 🚀
 
 ![snake gif](https://github.com/RonyelleOliveira/RonyelleOliveira/blob/output/github-contribution-grid-snake.svg)
