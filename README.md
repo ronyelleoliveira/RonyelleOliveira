@@ -18,6 +18,7 @@
 ## Visitors
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRonyelleOliveira%2FRonyelleOliveira&countColor=%23263759&style=flat)
+
  
 ### me segue nas redes abaixo!
  
@@ -27,6 +28,7 @@
   <a href = "mailto:ronyelleob@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ronyelle-oliveira-108883286" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 
 ## Contribution graph 🚀
 
