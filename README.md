@@ -25,4 +25,4 @@
 
 ## Contribution graph
 
-![snake gif](https://github.com/seu_usuario/seu_usuario/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/RonyelleOliveira/RonyelleOliveira/blob/output/github-contribution-grid-snake.svg)
