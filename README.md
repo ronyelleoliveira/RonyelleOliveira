@@ -1,8 +1,8 @@
 ### Bem-vindo(a) ao perfil do Ronyelle Oliveira | Desenvolvedor front-end 👨‍💻
 
-Apaixonado por criar interfaces web intuitivas e visualmente atraentes. Com sólidos conhecimentos em HTML, CSS e JavaScript, meu objetivo é elevar a experiência do usuário a um novo patamar.<br> Este é o meu playground de código, onde você encontrará projetos inovadores e soluções criativas para desafios web.<br>
+# Este é o meu playground de código, onde você encontrará projetos inovadores e soluções criativas para desafios web.<br>
 Sinta-se à vontade para explorar e inspirar-se!<br>
-🚀# Minhas Habilidades em Foco:
+## 🚀 Minhas Habilidades em Foco:
 
 ## Statistics 
  <div>
